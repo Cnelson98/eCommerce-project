@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "image": "images/cheesecake2.jpg.webp",
+    "name": "Cheesecake Plain",
+    "description": "Just a plain cheesecake to keep it simple",
+    "price": "9.99"
+  },
+  {
+    "id": 2,
+    "image": "images/cheesecake1.webp",
+    "name": "Strawberry Cheesecake",
+    "description": "Cheesecake with strawberry toppings",
+    "price": "9.99"
+  },
+  {
+    "id": 3,
+    "image": "images/blueberrycheesecake.webp",
+    "name": "Blueberry Cheesecake",
+    "description": "Cheesecake topped with blueberry's",
+    "price": "9.99"
+  },
+  {
+    "id": 4,
+    "image": "images/red-velvet-.jpg",
+    "name": "Red Velvet",
+    "description": "Red velvet flavored with cream cheese topping",
+    "price": "9.99"
+  },
+  {
+    "id": 5,
+    "image": "images/CHERRY-CHEESECAKE.png",
+    "name": "Cherry Cheesecake",
+    "description": "Cheesecake topped with cherry's",
+    "price": "9.99"
+  },
+  {
+    "id": 6,
+    "image": "images/chocolatecheesecake.jpg",
+    "name": "Chocolate Cheesecake",
+    "description": "Cheesecake covered in chocolate with reese's topping",
+    "price": "9.99"
+  },
+  {
+    "id": 7,
+    "image": "images/peanut-butter.jpg",
+    "name": "Nutter Butter Cheesecake",
+    "description": "Peanut butter cheesecake topped with nutter butter cookies",
+    "price": "9.99"
+  },
+  {
+    "id": 8,
+    "image": "images/caramelcheesecake.jpg",
+    "name": "Caramel Apple Cheesecake",
+    "description": "Caramel flavored cheesecake topped with fresh apples's",
+    "price": "9.99"
+  },
+  {
+    "id": 9,
+    "image": "images/peach-cobbler.jpg",
+    "name": "Peach Cobbler Cheesecake",
+    "description": "Peach cobbler flavored cheesecake topped with fresh peaches",
+    "price": "9.99"
+  },
+  {
+    "id": 10,
+    "image": "images/oreo-cheesecake.jpg",
+    "name": "Oreo Cheesecake",
+    "description": "Oreo flavored topped with oreo's and whipped cream",
+    "price": "9.99"
+  },
+  {
+    "id": 11,
+    "image": "images/raspberry-lemon.jpg",
+    "name": "Raspberry Lemon Cheesecake",
+    "description": "Raspberry/lemon flavored topped whipped cream",
+    "price": "9.99"
+  },
+  {
+    "id": 12,
+    "image": "images/pineapple-upside-down.jpg.avif",
+    "name": "Pineapple Upside Down Cheesecake",
+    "description": "Pineappple flavored topped with whipped cream",
+    "price": "9.99"
+  }
+
+]
